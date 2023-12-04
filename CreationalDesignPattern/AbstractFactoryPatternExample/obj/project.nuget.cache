@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqMcRTkmMF//J5BHQ0nMHW3Ed5E9oh15WRfQBaM5QPmU6aJgQXPN4u5EN9oqBYTEUYFMvTgHP7vIBDGG5zDepA==",
+  "success": true,
+  "projectFilePath": "D:\\GitProjects\\AbstractFactoryPatternExample\\AbstractFactoryPatternExample\\AbstractFactoryPatternExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

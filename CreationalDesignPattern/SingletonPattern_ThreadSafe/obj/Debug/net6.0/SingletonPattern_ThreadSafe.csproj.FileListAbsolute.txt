@@ -1,0 +1,15 @@
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\bin\Debug\net6.0\SingletonPattern_ThreadSafe.exe
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\bin\Debug\net6.0\SingletonPattern_ThreadSafe.deps.json
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\bin\Debug\net6.0\SingletonPattern_ThreadSafe.runtimeconfig.json
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\bin\Debug\net6.0\SingletonPattern_ThreadSafe.dll
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\bin\Debug\net6.0\SingletonPattern_ThreadSafe.pdb
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\SingletonPattern_ThreadSafe.csproj.AssemblyReference.cache
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\SingletonPattern_ThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\SingletonPattern_ThreadSafe.AssemblyInfoInputs.cache
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\SingletonPattern_ThreadSafe.AssemblyInfo.cs
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\SingletonPattern_ThreadSafe.csproj.CoreCompileInputs.cache
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\SingletonPattern_ThreadSafe.dll
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\refint\SingletonPattern_ThreadSafe.dll
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\SingletonPattern_ThreadSafe.pdb
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\SingletonPattern_ThreadSafe.genruntimeconfig.cache
+D:\GitProjects\SingletonPattern_ThreadSafe\SingletonPattern_ThreadSafe\obj\Debug\net6.0\ref\SingletonPattern_ThreadSafe.dll

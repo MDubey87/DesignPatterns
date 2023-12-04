@@ -1,0 +1,15 @@
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\bin\Debug\net6.0\FactoryDesignPatternDemo.exe
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\bin\Debug\net6.0\FactoryDesignPatternDemo.deps.json
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\bin\Debug\net6.0\FactoryDesignPatternDemo.runtimeconfig.json
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\bin\Debug\net6.0\FactoryDesignPatternDemo.dll
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\bin\Debug\net6.0\FactoryDesignPatternDemo.pdb
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\FactoryDesignPatternDemo.csproj.AssemblyReference.cache
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\FactoryDesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\FactoryDesignPatternDemo.AssemblyInfoInputs.cache
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\FactoryDesignPatternDemo.AssemblyInfo.cs
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\FactoryDesignPatternDemo.csproj.CoreCompileInputs.cache
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\FactoryDesignPatternDemo.dll
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\refint\FactoryDesignPatternDemo.dll
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\FactoryDesignPatternDemo.pdb
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\FactoryDesignPatternDemo.genruntimeconfig.cache
+D:\GitProjects\FactoryDesignPattern\FactoryDesignPatternDemo\obj\Debug\net6.0\ref\FactoryDesignPatternDemo.dll

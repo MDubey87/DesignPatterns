@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIT4FxIdHqcMEq5gRutAzNQEgtj52osDx6rG4vGv43GpYNdqYUR05BldRqsvhpXQFq36Z4ItpDO678LpG8lgfg==",
+  "success": true,
+  "projectFilePath": "D:\\GitProjects\\SingletonPattern_ThreadSafe\\SingletonPattern_ThreadSafe\\SingletonPattern_ThreadSafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

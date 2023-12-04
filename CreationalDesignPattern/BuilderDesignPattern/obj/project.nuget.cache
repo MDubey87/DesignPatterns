@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHGe15J712SnLKShbL3zUm4SpwGlgcH9EXVfTsgXIogb/H168N5CNWMsMem1rBbjEM9MDadN9MFVcZDSOAjfJg==",
+  "success": true,
+  "projectFilePath": "D:\\GitProjects\\BuilderDesignPattern\\BuilderDesignPattern\\BuilderDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
