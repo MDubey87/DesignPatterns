@@ -1,0 +1,15 @@
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.exe
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.deps.json
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.runtimeconfig.json
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.dll
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.pdb
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.AssemblyReference.cache
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfoInputs.cache
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfo.cs
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.CoreCompileInputs.cache
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.dll
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\refint\PrototypePattern.dll
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.pdb
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.genruntimeconfig.cache
+D:\GitProjects\DesignPatterns\CreationalDesignPattern\PrototypePattern\obj\Debug\net6.0\ref\PrototypePattern.dll
