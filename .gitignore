@@ -32,8 +32,24 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+CreationalDesignPattern/**/[Dd]ebug/
+CreationalDesignPattern/**/[Dd]ebugPublic/
+CreationalDesignPattern/**/[Rr]elease/
+CreationalDesignPattern/**/[Rr]eleases/
+CreationalDesignPattern/**/x64/
+CreationalDesignPattern/**/x86/
+CreationalDesignPattern/**/[Ww][Ii][Nn]32/
+CreationalDesignPattern/**/[Aa][Rr][Mm]/
+CreationalDesignPattern/**/[Aa][Rr][Mm]64/
+CreationalDesignPattern/**/bld/
+CreationalDesignPattern/**/[Bb]in/
+CreationalDesignPattern/**/[Oo]bj/
+CreationalDesignPattern/**/[Ll]og/
+CreationalDesignPattern/**/[Ll]ogs/
+
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+CreationalDesignPattern/**/.vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
