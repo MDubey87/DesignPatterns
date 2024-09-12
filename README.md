@@ -37,6 +37,7 @@ I have written an article for each design pattern to completely covers them. Her
       <li><a href="https://manish4dotnet.blogspot.com/2024/07/state-design-pattern-in-c.html" target="_blank">State Pattern</a></li>
       <li><a href="https://manish4dotnet.blogspot.com/2024/07/visitor-pattern-in-c.html" target="_blank">Visitor Pattern</a></li>
        <li><a href="https://manish4dotnet.blogspot.com/2024/09/interpreter-design-pattern-in-c.html" target="_blank">Interpreter Pattern</a></li>
+       <li><a href="https://manish4dotnet.blogspot.com/2024/09/iterator-design-pattern-in-c.html" target="_blank">Iterator Pattern</a></li>
     </ol>
   </li>
 </ol>
